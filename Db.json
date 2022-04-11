@@ -1,0 +1,27 @@
+{
+  "posData": [
+    {
+      "CRNo": 5633443,
+      "CustomerName": "Adani",
+      "FromDate" : "04/03/2021",
+      "ToDate" : "03/04/2022",
+      "Status":"Approved",
+      
+    },
+    {
+       "CRNo": 5633443,
+      "CustomerName": "Adani",
+      "FromDate" : "04/03/2021",
+      "ToDate" : "03/04/2022",
+      "Status":"Approved",
+    },
+    {
+       "CRNo": 5633443,
+      "CustomerName": "Adani",
+      "FromDate" : "04/03/2021",
+      "ToDate" : "03/04/2022",
+      "Status":"Approved",
+    }
+  ]
+  }
+  
